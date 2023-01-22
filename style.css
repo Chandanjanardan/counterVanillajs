@@ -1,0 +1,20 @@
+body{
+    background-color: #581b98;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    color: white;
+}
+.counter-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 80px;
+}
+.counter{
+    font-size: 20px;
+    margin-top: 10px;
+
+}
